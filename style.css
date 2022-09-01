@@ -1,0 +1,137 @@
+/* .ulist li:nth-of-type(odd){
+    background-color: aquamarine;
+    
+} */
+/* .ulist li:nth-child(2){ */
+    /* background: cadetblue;
+} */
+
+
+/* .ulist li:nth-last-child(1){
+    background: chocolate;
+} */
+
+/* div:first-of-type{
+    background: red;
+}
+div:last-of-type{
+    background: darksalmon;
+} */
+
+/* a{
+    font-size: xx-large;
+    transition: background 2s;
+} */
+/* a:visited{
+    color:rgb(31, 19, 102);
+} */
+
+/* a:hover{
+    color:rgb(81, 179, 138)
+} */
+/* a:link{
+    background-color: aqua;
+} */
+
+
+/* .before-text::before{
+    content:"this a new content for web";
+    color: aqua;
+    font-size: 20px;
+}
+.aftertext::after{
+    content: "this a new content for after";
+    color:blueviolet;
+    font-size: 50px;
+} */
+
+/* p::first-letter{
+    color: blue;
+    font-size: 30px;
+} */
+
+/* .test{
+    background: aqua;
+    border:5px double brown;
+padding: 50px;
+margin: 50px;
+} */
+
+div{
+    font-family:cursive;
+    background: coral;
+    font-size: 20px;
+    border: 5px solid rgb(156, 27, 207);
+    padding: 5px;
+    margin: 5px;
+    width: 400px;
+    text-align: center;
+    box-shadow: 8px 15px 20px rgb(17, 219, 118);
+border-radius: 30px;
+}
+
+.RELATIVE {
+    position: relative;
+    left: 300px;
+}
+
+.ancestor{
+
+}
+.absolute{
+    position: absolute;
+    left: 600px;
+}
+.FIXED{
+    position: fixed;
+    top: 100px;
+    right: 100px;
+}
+.sticky{
+    position: sticky;
+    top: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
